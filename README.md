@@ -17,7 +17,7 @@ My custom bashrc file.
 ---
 
 ## How to install it:
-```./install-arch.sh```
+'./install-arch.sh'
 
 > Made by Paul alias Plastic Bottleneck
 > GitHub: https://github.com/plastic-bottleneck  
