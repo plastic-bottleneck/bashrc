@@ -3,16 +3,16 @@
 My custom bashrc file.
 
 ## New Aliases:
-- ```ls```  lists your files
-- ll  to list more information about your files
-- l.  same as ls plus showing hidden files/folders too
-- c  clears the screen
-- b  goes back one directory
-- lh  shows your history
-- upload [file]  upload a file on the web to pull it from an other computer
+- ```ls``` lists your files
+- ```ll``` to list more information about your files
+- ```l.``` same as ls plus showing hidden files/folders too
+- ```c``` clears the screen
+- ```b``` goes back one directory
+- ```lh``` shows your history
+- ```upload [file]``` upload a file on the web to pull it from an other computer
 
 ## New Functions:
-- [ESC]  edit your command you just typed in with VI. Press V to open VI
+- ```[ESC]``` edit your command you just typed in with VI. Press V to open VI
 
 ---
 
@@ -20,6 +20,16 @@ My custom bashrc file.
 * Install it on Arch Linux
 ```  
 ./install-arch.sh
+```
+
+* Install it on Debian Based Distros
+```
+./install-debian.sh
+```
+
+* Manual install
+```
+mv ~/.bashrc ~/.bashrc.alt && cp source/bashrc ~/.bashrc
 ```
 
 > Made by Paul alias Plastic Bottleneck
