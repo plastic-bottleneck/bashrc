@@ -18,7 +18,7 @@ My custom bashrc file.
 
 ## How to install it:
 * Install it on Arch Linux
-
+```  
 ./install-arch.sh
 ```
 
