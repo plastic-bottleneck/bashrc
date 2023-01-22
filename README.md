@@ -3,7 +3,7 @@
 My custom bashrc file.
 
 ## New Aliases:
-- ls  lists your files
+- ```ls```  lists your files
 - ll  to list more information about your files
 - l.  same as ls plus showing hidden files/folders too
 - c  clears the screen
