@@ -1,4 +1,4 @@
-# bashrc
+# Pauls bashrc config
 
 My custom bashrc file.
 
@@ -13,6 +13,11 @@ My custom bashrc file.
 
 ## New Functions:
 - [ESC]  edit your command you just typed in with VI. Press V to open VI
+
+---
+
+## How to install it:
+'./install-arch.sh
 
 > Made by Paul alias Plastic Bottleneck
 > GitHub: https://github.com/plastic-bottleneck  
