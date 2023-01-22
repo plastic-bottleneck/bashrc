@@ -15,5 +15,5 @@ My custom bashrc file.
 - [ESC]           edit your command you just typed in with VI. Press V to open VI
 
 > Made by Paul alias Plastic Bottleneck
-> GitHub: https://github.com/plastic-bottleneck
+> GitHub: https://github.com/plastic-bottleneck  
 > Check out my own Distro at 1.4Mb! https://github.com/plastic-bottleneck/plus-linux
