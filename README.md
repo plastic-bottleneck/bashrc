@@ -19,12 +19,12 @@ My custom bashrc file.
 ## How to install it:
 * Install it on Arch Linux
 ```  
-./install-arch.sh
+chmod +x install-arch.sh && ./install-arch.sh
 ```
 
 * Install it on Debian Based Distros
 ```
-./install-debian.sh
+chmod +x install-debian.sh && ./install-debian.sh
 ```
 
 * Manual install
