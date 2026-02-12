@@ -33,7 +33,3 @@ chmod +x install-debian.sh && ./install-debian.sh
 ```
 mv ~/.bashrc ~/.bashrc.alt && cp source/bashrc ~/.bashrc
 ```
-
-> Made by Paul alias Plastic Bottleneck  
-> GitHub: https://github.com/plastic-bottleneck  
-> Check out my own Distro at 1.4Mb! https://github.com/plastic-bottleneck/plus-linux
