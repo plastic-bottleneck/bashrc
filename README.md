@@ -1,4 +1,4 @@
-# Pauls bashrc config
+# bashrc config
 
 My custom bashrc file.
 
